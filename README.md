@@ -64,7 +64,7 @@ python GRU.py
 This will:
 - Clean and tokenize the reviews
 - Train the GRU model for 5 epochs
-- Plot accuracy and loss curves
+- Plot accuracy and loss curves(Shows the Test Accuracy and Loss/ Train Accuracy and Loss)
 - Print test accuracy and loss
 - Run two sample predictions
 
@@ -83,10 +83,10 @@ This will:
 
 ```
 Absolutely brilliant! One of the best films I have seen.
-→ Positive :)  (score: 0.97)
+-> Positive :)  (score: 0.97)
 
 Complete disaster. Dull plot, bad acting, total waste of time.
-→ Negative :(  (score: 0.04)
+-> Negative :(  (score: 0.04)
 ```
 
 ---
