@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# TensorFlow logs and checkpoints
+logs/
+checkpoints/
+*.h5
+*.keras
+
+# Dataset files (if large)
+dataset/
