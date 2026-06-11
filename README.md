@@ -45,8 +45,8 @@ Place the CSV at `dataset/IMDB Dataset.csv` before running.
 ### 1. Clone / download the project
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone <https://github.com/itiz-ksh/GRU-Gated-Recurrent-Unit>
+cd GRU-Sentiment-Analysis
 ```
 
 ### 2. Install dependencies
