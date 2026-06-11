@@ -45,7 +45,7 @@ Place the CSV at `dataset/IMDB Dataset.csv` before running.
 ### 1. Clone / download the project
 
 ```bash
-git clone <https://github.com/itiz-ksh/GRU-Sentiment-Analysis>
+git clone https://github.com/itiz-ksh/GRU-Sentiment-Analysis
 cd GRU-Sentiment-Analysis
 ```
 
